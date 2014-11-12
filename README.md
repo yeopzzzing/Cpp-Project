@@ -1,4 +1,4 @@
-C-Project
+C-Project (쪽지 프로그램)
 =========
 
-jollaman999, yeopzzing, sungwoo
+Project by : jollaman999, yeopzzing, sungwoo
