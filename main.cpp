@@ -32,4 +32,6 @@ int main(void) {
 			Sleep(500);
 		}
 	}
+
+	return 0;
 }
